@@ -1,0 +1,22 @@
+{
+  "name": "Delta iOS Source",
+  "identifier": "gg.deltaexploits.ios",
+  "sourceURL": "https://your-host.com/delta.json",
+  "apps": [
+    {
+      "name": "Delta Executor",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "developerName": "Delta",
+      "localizedDescription": "Full sUNC Roblox executor. Key system is fast. Works on current Roblox.",
+      "iconURL": "https://deltaexploits.gg/favicon.ico",
+      "versions": [
+        {
+          "version": "2.745",
+          "date": "2026-11-06",
+          "downloadURL": "https://your-direct-ipa-url-here.ipa",
+          "size": 139000000
+        }
+      ]
+    }
+  ]
+}
